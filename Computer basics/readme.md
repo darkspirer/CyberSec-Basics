@@ -10,8 +10,8 @@
 - Windows  C,D disk
 - Linux    UnixSystem
 - MacOS    IOS
-# GUI - Graphical User Interface
+- - GUI - Graphical User Interface
 - ㅁ ㅁ ㅁ
-# CLI - Commond Line Interface
+- - CLI - Commond Line Interface
 - /______
 - /______
