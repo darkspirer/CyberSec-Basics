@@ -1,4 +1,22 @@
 # Terminal commands
-- dir - Displays the files and folders in the current directory (folder) on the computer
-- cd  - Shows the current directory (folder) you are in
-- cd..  - Moves up one level in the directory tree (goes to the parent folder)
+- dir   - displays the files and folders in the current directory (folder) on the computer
+- cd   - shows the current directory (folder) you are in
+-  cd..   - moves up one level in the directory tree (goes to the parent folder)
+- mkdir  or  md   -  make directory
+- ren  rename folder and directory
+- del   delete directory                                                   
+- exit  -  exits the current window or stops the running script
+- cls  - clean  all teext
+- help  -   Lists all available commands and their descriptions
+- time    or   Get-Date   -  system time
+- copy   folder other directory copy
+- ipconfig  - your ip adress
+- sfc scans and repairs corrupted system files
+- chksdk  - scans the hard drive for bad sectors and file system errors
+- tasklist  - displays a list of currently running processes
+- shutdown  - allows you to shut down or restart the computer
+- - shutdown /s /f /t
+- netstat  -  displays active connections and listening ports
+- taskkill  -  lets you terminate a process using its process ID
+- netsh wlan show profiles  - wifi save wifi network
+-  netsh wlan show profile name="wifi profile name" key=clear
