@@ -20,3 +20,14 @@
 - taskkill  -  lets you terminate a process using its process ID
 - netsh wlan show profiles  - wifi save wifi network
 -  netsh wlan show profile name="wifi profile name" key=clear
+-  ping site name  -   sends packets to test communication with another device or website
+-  syteminfo  -  your laptop or pc about information
+-  tracert site name  -  shows the path packets take to reach a specific destination
+-  diskpart  -  opens a command-line utility for managing disk partitions
+-  rmdir  -  remove directory
+-  net user  -  to list all the user accounts
+-  wmic startup get caption,command  -  to check what programs launch on startup
+-  fc  -  compares two files and highlights differences
+-  calc  -  calculator
+-  pathping site name  -  combines ping and tracert functionalities to provide detailed network path diagnostics
+-  regedit  -  launches the Windows Registry Editor
