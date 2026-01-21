@@ -31,3 +31,12 @@
 -  calc  -  calculator
 -  pathping site name  -  combines ping and tracert functionalities to provide detailed network path diagnostics
 -  regedit  -  launches the Windows Registry Editor
+-  getmac  -  displays the MAC address of your network adapter
+-  powercfg  -  displays and manages power settings
+-  bcdedit  -  used to modify boot configuration settings
+-  format  -  to erase any specific drive
+-  javac  -  compiles Java source files into bytecode
+-  git  -  interacts with Git repositories from the command line
+-  python  -  runs Python scripts in the command prompt store app
+-  node  -  executes Node.js scripts
+-  npm  -  installs and manages JavaScript packages
