@@ -36,3 +36,12 @@ such as Windows or Linux, that scans data against a database of rules or attack 
 for malicious traffic.
 - IPS can block or deny traffic based on a positive rule or signature match. One of the most well-known
 IPS/IDS systems is Snort.
+
+## Protecting against malware 
+cisco AMP (advanced malware protection)
+- Secure oprations center team - the threat Grid allows the Cisco operations center team to gather more accurate, actionable data.
+- Incidence response team - the incidence response team therefore has access to forensically sound infomation from which it can more quickly analyze and understand suspicious behaviors.
+- Threan intelligence team - using this analysis, the Treat intelligence team can proactively improve the organization's infrastructure.
+- Security infrastructure engineering team - Overall the security infrastructure engineering team is able to consume and act on threat information faster, often in an automated way.
+
+
