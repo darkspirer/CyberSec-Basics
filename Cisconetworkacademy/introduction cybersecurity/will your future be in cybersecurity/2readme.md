@@ -1,0 +1,11 @@
+# Education and careers 
+## Professional certifications 
+- Cisco Certified Support (CCST) Cybersecurity - This is an entry-level certification for newcomers who are preparing to start their career in the cybersecurity field. It is aimed at high school and early college students as well as those interested in a career change. This certificate does not expire or require periodic recertification.
+- CopmpTia Security+ - This is an entry-level security certification that meets the U.S. Department of Defense Directive 8570.01-M requirements, which is an important item for anyone looking to work in IT security for the federal government.
+- EC Council Ethical Hacker (CEH) - This certification tests your understanding and knowledge of how to look for weaknesses and vulnerabilities in target systems using the same knowledge and tools as a malicious hacker but in a lawful and legitimate manner.
+- ICS2 Certified  Infomation Systems Security Professional (CISSO) - This is the most recognizable and popular security certification. In order to take the exam, you need to have at least five years of relevant industry experience.
+- Cisco Certified CyberOps Associate - This certification validates the skills required of associate-level cybersecurity analysts within security operations centers.
+
+## Cybersecurity career pathways 
+CyberSeek is a tool that provides detailed data about supply and demand in the cybersecurity job market to help close the cybersecurity skills gap
+https://www.cyberseek.org/pathway.html
