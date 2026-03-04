@@ -9,7 +9,7 @@ three levels
 - online and offline identify 
 - - offline - is the  real life personal data
 - - online - isn't just name. it is who you are and how you present yourself to others online
-# Youor data
+# Your data
 hacker use data
 - medical redords
 - education records
